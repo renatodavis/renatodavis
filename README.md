@@ -6,7 +6,10 @@ Minhas principais Tecnologias:
 <img alt="html5" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">
 <img alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img alt="html5" src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img alt="html5" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+<img alt="html5" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+
+  
 <br/>
 
 Outras linguagens de estudo e conhecimento:
