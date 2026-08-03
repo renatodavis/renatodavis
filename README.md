@@ -46,7 +46,7 @@
 
 ## 🔍 Especialidades
 
-- 📄 **Integração Fiscal:** NF-e, NFC-e, CT-e, SPED Fiscal e Contábil
+- 📄 **Integrações Fiscais:** NF-e, NFC-e, CT-e, SPED Fiscal e Contábil
 - 🏭 **Sistemas ERP** corporativos e migração de sistemas legados
 - 🤖 **IA Agêntica:** SDD, Skills, Agentes, RAG, Claude Code
 - ⚙️ **Metodologias:** Scrum (Master) e Kanban
