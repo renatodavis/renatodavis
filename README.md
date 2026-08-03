@@ -53,12 +53,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatodavis&layout=compact&theme=onedark&hide_border=true)
-
-![Renato GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatodavis&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true)
-
 </div>
