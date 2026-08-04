@@ -1,6 +1,6 @@
 # Renato Davis 👋
 
-**Analista Desenvolvedor Sênior** · Maringá, PR · 15+ anos em sistemas ERP e integração fiscal
+**Analista Desenvolvedor Sênior** · Maringá, PR · 15+ anos em manutenção e desenvolvimento de sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatodavisbatista)
 [![Gmail](https://img.shields.io/badge/renatodavis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatodavis@gmail.com)
